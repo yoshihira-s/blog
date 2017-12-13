@@ -12,9 +12,11 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
 body{
   background-color: #F5F8F8;
 }
+
 .wrap {
   max-width: 600px;
   margin: 0 auto;
@@ -31,6 +33,7 @@ body{
     -webkit-font-smoothing: antialiased;
     word-break: break-word;
 }
+
 .date{
     font-family: 'Archivo Narrow', 'Hiragino Kaku Gothic Pro',Meiryo,'MS PGothic',sans-serif;
     text-align: center;
@@ -44,6 +47,10 @@ p {
     line-height: 1.8;
 }
 
+.main{
+    padding-top:20px;
+    padding-bottom: 10px;
+}
 
 /*
 old
