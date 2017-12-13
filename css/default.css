@@ -86,3 +86,23 @@ type1
 .type1 .figure img{
     max-width: 100%;
 }
+
+/*
+type2
+*/
+
+.type2 .text {
+    color: rgba(0,0,0,.84);
+    margin-top: 21px;
+    font-size: 18px;
+    line-height: 1.58;
+    letter-spacing: -.004em;
+    font-family: "Times New Roman",serif;
+}
+.type2 .figure {
+    margin-top: 35px;
+    text-align: center;
+}
+.type2 .figure img{
+    max-width: 100%;
+}
