@@ -14,7 +14,7 @@ body{
   max-width: 600px;
   margin: 0 auto;
   background-color: #FFF;
-  padding: 24px 0px;
+  padding: 24px 20px;
 }
 
 .title {
@@ -31,4 +31,26 @@ body{
     text-align: center;
     margin: 10px;
     color: rgba(0,0,0,0.44);
+}
+
+p {
+    word-break: break-all;
+    word-wrap: break-word;
+    line-height: 1.8;
+}
+
+
+/*
+old
+*/
+
+.old .wrap {
+  margin: 0px -20px;
+  margin-bottom: 0px;
+  text-align: center;
+  padding: 20px 0;
+}
+.old .wrap img{
+  max-width: 100%;
+  margin: 10px 0;
 }
