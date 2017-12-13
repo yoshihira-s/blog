@@ -92,15 +92,14 @@ type2
 */
 
 .type2 .text {
-    color: rgba(0,0,0,.84);
-    margin-top: 21px;
-    font-size: 18px;
-    line-height: 1.58;
-    letter-spacing: -.004em;
-    font-family: "Times New Roman",serif;
+    olor: #444;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 2;
+    font-family: "Helvetica Neue", "Segoe UI", "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif !important;
 }
 .type2 .figure {
-    margin-top: 35px;
+    margin-bottom: 20px;
     text-align: center;
 }
 .type2 .figure img{
