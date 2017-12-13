@@ -79,10 +79,8 @@ type1
     font-family: "Times New Roman",serif;
 }
 .type1 .figure {
-  margin: 0px -20px;
-  margin-bottom: 0px;
-  text-align: center;
-  padding: 20px 0;
+    margin-top: 35px;
+    text-align: center;
 }
 .type1 .figure img{
   max-width: 100%;
