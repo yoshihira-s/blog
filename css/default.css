@@ -13,4 +13,21 @@ body{
 .wrap {
   max-width: 600px;
   margin: 0 auto;
+  background-color: #FFF;
+}
+
+.title {
+    letter-spacing: -.026em;
+    font-size: 28px;
+    line-height: 1.1;
+    font-weight: bold;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    word-break: break-word;
+}
+.date{
+    font-family: 'Archivo Narrow', 'Hiragino Kaku Gothic Pro',Meiryo,'MS PGothic',sans-serif;
+    text-align: center;
+    margin: 10px;
+    color: rgba(0,0,0,0.44);
 }
