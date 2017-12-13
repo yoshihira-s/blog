@@ -69,6 +69,21 @@ p {
 old
 */
 
+.old h2 {
+    margin: 1.5em 0 1em;
+    font-size: 1em;
+    font-weight: bold;
+}
+.old b {
+    font-weight: bold;
+}
+.old a {
+    color: #337ab7;
+    text-decoration: none;
+}
+.old cite {
+
+}
 
 
 /*
@@ -83,13 +98,6 @@ type1
     letter-spacing: -.004em;
     font-family: "Times New Roman",serif;
 }
-.type1 .figure {
-    margin-top: 35px;
-    text-align: center;
-}
-.type1 .figure img{
-    max-width: 100%;
-}
 
 /*
 type2
@@ -102,13 +110,6 @@ type2
     line-height: 2;
     font-family: "Helvetica Neue", "Segoe UI", "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif !important;
 }
-.type2 .figure {
-    margin-bottom: 20px;
-    text-align: center;
-}
-.type2 .figure img{
-    max-width: 100%;
-}
 
 /*
 type3
@@ -120,12 +121,5 @@ type3
     line-height: 1.8;
     font-size: 14px;
     font-family: Emoji, Arial, "ヒラギノ角ゴPro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
-}
-.type3 .figure {
-    margin-bottom: 20px;
-    text-align: center;
-}
-.type3 .figure img{
-    max-width: 100%;
 }
 
