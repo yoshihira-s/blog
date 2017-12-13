@@ -72,10 +72,11 @@ type1
 */
 
 .type1 .text {
-  margin: 0px -20px;
-  margin-bottom: 0px;
-  text-align: center;
-  padding: 20px 0;
+    margin-top: 21px;
+    font-size: 18px;
+    line-height: 1.58;
+    letter-spacing: -.004em;
+    font-family: "Times New Roman",serif;
 }
 .type1 .figure {
   margin: 0px -20px;
