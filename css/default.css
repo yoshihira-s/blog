@@ -59,3 +59,24 @@ old
   max-width: 100%;
   margin: 10px 0;
 }
+
+/*
+type1
+*/
+
+.type1 .text {
+  margin: 0px -20px;
+  margin-bottom: 0px;
+  text-align: center;
+  padding: 20px 0;
+}
+.type1 .figure {
+  margin: 0px -20px;
+  margin-bottom: 0px;
+  text-align: center;
+  padding: 20px 0;
+}
+.type1 .figure img{
+  max-width: 100%;
+  margin: 10px 0;
+}
