@@ -98,7 +98,6 @@ type1
     letter-spacing: -.004em;
     font-family: "Times New Roman",serif;
 }
-
 .type1 h2 {
     margin-top: 31px;
     font-size: 24px;
@@ -147,6 +146,26 @@ type2
     font-size: 16px;
     line-height: 2;
     font-family: "Helvetica Neue", "Segoe UI", "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif !important;
+}
+.type2 h2 {
+    font-family: YakuHanJPs, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+    color: #444 ;
+    font-size: 18px ;
+    padding-bottom: .6rem ;
+    padding-top: .3rem;
+    margin-bottom: 0px ;
+}
+.type2 b {
+    font-weight: bold;
+}
+.type2 a , .type2 a:visited {
+    color: #444 ;
+    text-decoration: underline;
+}
+.type2 cite {
+}
+.type2 cite a, .type1 cite a:visited{
+
 }
 
 /*
