@@ -154,6 +154,8 @@ type2
     padding-bottom: .6rem ;
     padding-top: .3rem;
     margin-bottom: 0px ;
+    line-height: 1.5em !important;
+    font-weight: bold;
 }
 .type2 b {
     font-weight: bold;
