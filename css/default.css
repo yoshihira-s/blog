@@ -197,6 +197,7 @@ type3
     text-decoration: underline;
 }
 .type3 cite {
+    font-size: 14px;
     color: #08837d;
 }
 .type3 cite a, .type3 cite a:visited{
