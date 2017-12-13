@@ -15,7 +15,7 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
 
 body{
   background-color: #F5F8F8;
-  font-family: Roboto,'Helvetica Neue',sans-serif;
+  font-family: "Segoe UI",Roboto,Helvetica,Arial,sans-serif,'Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',Osaka,sans-serif;
 }
 
 .wrap {
