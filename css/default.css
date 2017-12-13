@@ -100,23 +100,28 @@ type1
 }
 
 .type1 h2 {
-margin-top: 31px;
-font-size: 24px;
-margin-left: -1.5px;
-line-height: 1.22;
-letter-spacing: -.012em;
-font-weight: 600;
-font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+    margin-top: 31px;
+    font-size: 24px;
+    margin-left: -1.5px;
+    line-height: 1.22;
+    letter-spacing: -.012em;
+    font-weight: 600;
+    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
 }
 .type1 b {
     font-weight: bold;
 }
 .type1 a {
-    color: #337ab7;
-    text-decoration: none;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,.68) 50%,rgba(0,0,0,0) 50%);
+    background-repeat: repeat-x;
 }
 .type1 cite {
-
+    font-size: 16px;
+    line-height: 1.4;
+    color: rgba(0,0,0,.68);
+    letter-spacing: 0;
+    font-weight: 400;
+    margin-top:10px;
 }
 
 
