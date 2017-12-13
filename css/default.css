@@ -72,6 +72,7 @@ type1
 */
 
 .type1 .text {
+    color: rgba(0,0,0,.84);
     margin-top: 21px;
     font-size: 18px;
     line-height: 1.58;
@@ -83,5 +84,5 @@ type1
     text-align: center;
 }
 .type1 .figure img{
-  max-width: 100%;
+    max-width: 100%;
 }
