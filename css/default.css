@@ -117,6 +117,7 @@ type1
     background-size: 2px 1px;
     background-position: 0 1.03em;
     -webkit-tap-highlight-color: rgba(0,0,0,.54);
+    color: rgba(0,0,0,.84);
 }
 .type1 a:visited {
     color: rgba(0,0,0,.84);
