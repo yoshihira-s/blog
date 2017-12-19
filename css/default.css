@@ -208,11 +208,13 @@ type3
 type3
 */
 
-.text {
-    color: #455A64;
-    margin: 24px 0;
+.new .text {
+    word-break: break-all;
+    word-wrap: break-word;
     line-height: 1.8;
     font-size: 14px;
+    color: #37474F;
+    margin: 16px 0;
 }
 .new h3 {
     font-size: 22px;
