@@ -201,3 +201,39 @@ type3
 .type3 cite a, .type3 cite a:visited{
 
 }
+
+
+
+*
+type3
+*/
+
+.new .text {
+    color: #455A64;
+    margin: 24px 0;
+    line-height: 1.8;
+    font-size: 14px;
+    font-family: Emoji, Arial, "ヒラギノ角ゴPro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+}
+.new h3 {
+    font-size: 22px;
+    margin: 24px 0;
+    margin-bottom: 8px;
+    font-weight: bold;
+    border-bottom: #455A6410;
+    padding-bottom: 10px;
+}
+.new b {
+    font-weight: bold;
+}
+.new a , .type3 a:visited {
+    color: #08837d;
+    text-decoration: underline;
+}
+.new cite {
+    font-size: 14px;
+    color: #08837d;
+}
+.new cite a, .type3 cite a:visited{
+
+}
