@@ -219,10 +219,11 @@ type3
 }
 .new cite {
     font-size: 13px;
-    color: #337ab7;
+    color: rgba(55, 71, 79, 0.7);
 }
 .new cite a, .type3 cite a:visited{
-color: #337ab7;
+color: rgba(55, 71, 79, 0.7);
+    text-decoration: none;
 }
 
 .new .text {
