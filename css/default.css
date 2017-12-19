@@ -198,6 +198,12 @@ type3
     font-size: 14px;
     color: #08837d;
 }
+.type3 cite::before {
+	content: "（";
+}
+.type3 cite::after {
+	content: "）";
+}
 .type3 cite a, .type3 cite a:visited{
 
 }
