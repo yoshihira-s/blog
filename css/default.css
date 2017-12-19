@@ -208,12 +208,11 @@ type3
 type3
 */
 
-.new p.text {
+.text {
     color: #455A64;
     margin: 24px 0;
     line-height: 1.8;
     font-size: 14px;
-    font-family: Emoji, Arial, "ヒラギノ角ゴPro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
 }
 .new h3 {
     font-size: 22px;
