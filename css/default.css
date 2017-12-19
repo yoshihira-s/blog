@@ -222,13 +222,6 @@ type3
     font-size: 13px;
     color: rgba(55, 71, 79, 0.7);
 }
-.new cite::before {
-	content: "（";
-
-}
-.new cite::after {
-	content: "）";
-}
 .new cite a, .type3 cite a:visited{
 color: rgba(55, 71, 79, 0.7);
     text-decoration: none;
