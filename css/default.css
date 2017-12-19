@@ -240,8 +240,6 @@ type3
 }
 
 .new .text{
-    word-break: break-all;
-    word-wrap: break-word;
     line-height: 1.8;
     font-size: 14px;
     color: #37474F;
