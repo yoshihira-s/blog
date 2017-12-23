@@ -254,7 +254,18 @@ color: rgba(55, 71, 79, 0.7);
     height: 32px;
     margin: 14px auto;
 }
-.likes_num{
-}
-.likes_num a{
+.likes_num a {
+    color: #777;
+    font-weight: bold;
+    font-family: arial;
+    text-decoration: none;
+    position: fixed;
+    width: 62px;
+    border-radius: 3px;
+    right: 16px;
+    bottom: 88px;
+    height: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    line-height: 20px;
 }
