@@ -245,8 +245,8 @@ color: rgba(55, 71, 79, 0.7);
     height: 60px;
     overflow: hidden;
 }
-.likes svg {
-fill:#CCC;
+.likes img {
+
     width:24px;
     height:24px;
 }
