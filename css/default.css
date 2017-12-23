@@ -244,6 +244,9 @@ color: rgba(55, 71, 79, 0.7);
     width: 60px;
     height: 60px;
     overflow: hidden;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
 }
 .likes img {
 
