@@ -250,12 +250,12 @@ color: rgba(55, 71, 79, 0.7);
 }
 
 
-.has-image {
+.new p.has-image {
   margin: 16px -20px;
   margin-bottom: 0px;
   text-align: center;
 }
-.has-image img{
+.new p.has-image img{
   max-width: 100%;
 }
 
