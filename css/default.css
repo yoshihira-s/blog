@@ -254,11 +254,10 @@ color: rgba(55, 71, 79, 0.7);
   margin: 0px -20px;
   margin-bottom: 0px;
   text-align: center;
-  padding: 20px 0;
+  padding: 16px 0;
 }
 .has-image img{
   max-width: 100%;
-  margin: 10px 0;
 }
 
 .new blockquote {
