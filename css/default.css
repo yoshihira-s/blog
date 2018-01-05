@@ -240,7 +240,7 @@ color: rgba(55, 71, 79, 0.7);
     text-decoration: none;
 }
 
-.new .text {
+.new p {
     word-break: break-all;
     word-wrap: break-word;
     line-height: 1.7;
