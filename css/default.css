@@ -203,8 +203,8 @@ type3
 
 }
 
-.new h3 {
-    font-size: 18px;
+ .new h2 {
+    font-size: 22px;
     margin: 24px 0 16px;
     margin-bottom: 8px;
     font-weight: bold;
@@ -212,6 +212,17 @@ type3
     padding-bottom: 8px;
     color: #37474F;
 }
+
+.new h3 {
+    font-size: 18px;
+    margin: 24px 0 16px;
+    margin-bottom: 8px;
+    font-weight: bold;
+    padding-bottom: 8px;
+    color: #37474F;
+}
+
+
 .new b {
     font-weight: bold;
 }
@@ -232,7 +243,7 @@ color: rgba(55, 71, 79, 0.7);
     word-break: break-all;
     word-wrap: break-word;
     line-height: 1.7;
-    font-size: 15px;
+    font-size: 16px;
     color: #37474F;
     margin: 16px 0;
 }
