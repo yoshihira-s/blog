@@ -65,6 +65,19 @@ p {
 }
 
 
+.has-image {
+  margin: 0px -20px;
+  margin-bottom: 0px;
+  text-align: center;
+  padding: 20px 0;
+}
+.has-image img{
+  max-width: 100%;
+  margin: 10px 0;
+}
+
+
+
 /*
 old
 */
