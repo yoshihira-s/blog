@@ -231,7 +231,7 @@ type3
     text-decoration: underline;
 }
 .new cite {
-    font-size: 13px;
+    font-size: 10px;
     color: rgba(55, 71, 79, 0.7);
 }
 .new cite a, .type3 cite a:visited{
