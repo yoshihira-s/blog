@@ -251,10 +251,9 @@ color: rgba(55, 71, 79, 0.7);
 
 
 .has-image {
-  margin: 0px -20px;
+  margin: 16px -20px;
   margin-bottom: 0px;
   text-align: center;
-  padding: 16px 0;
 }
 .has-image img{
   max-width: 100%;
