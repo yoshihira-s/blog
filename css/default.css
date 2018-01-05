@@ -204,12 +204,12 @@ type3
 
 }
 
- .new h2 {
+.new h2 {
     font-size: 22px;
     margin: 24px 0 16px;
     margin-bottom: 8px;
     font-weight: bold;
-    border-bottom:1px solid #455A6420;
+    border-bottom: 1px solid rgba(69, 90, 99, 0.15);
     padding-bottom: 8px;
     color: #37474F;
 }
@@ -262,9 +262,10 @@ color: rgba(55, 71, 79, 0.7);
 }
 
 .new blockquote {
-    border-left: 5px solid rgba(0,0,0,0.1);
+    border-left: 5px solid rgba(69, 90, 99, 0.15);
     margin-bottom: 30px;
     padding: 0 20px;
+    color:#56707c;
 }
 
 
