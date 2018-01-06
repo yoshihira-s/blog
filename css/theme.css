@@ -19,8 +19,7 @@ body{
     margin-bottom: 1rem;
     border: 1px solid transparent;
     border-radius: .25rem;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.13);
-}
+
 }
 
 .alert-theme {
