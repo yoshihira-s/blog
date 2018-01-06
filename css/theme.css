@@ -22,9 +22,9 @@ body{
 }
 
 .alert-theme {
-    color: #004085;
-    background-color: #cce5ff;
-    border-color: #b8daff;
+    color: #FFF;
+    background-color: #2D4472;
+    border-color: #2D4472;
 }
 
 .alert-success {
