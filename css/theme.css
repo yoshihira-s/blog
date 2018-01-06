@@ -43,7 +43,6 @@ body{
 }
 
 .alert-disconnect {
-    color: #899090;
-    background-color: #f8f9f9;
-    border-color: #e3e6e8;
+    color: #949494;
+    background-color: #f9fafb;
 }
