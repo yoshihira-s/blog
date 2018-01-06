@@ -28,15 +28,18 @@ body{
 }
 
 .alert-success {
-    color: #004085;
-    background-color: #cce5ff;
-    border-color: #b8daff;
+    color: #00518f;
+    background-color: #cce9ff;
 }
 
 .alert-danger {
-    color: #721c24;
-    background-color: #f8d7da;
-    border-color: #f5c6cb;
+    color: #8f1800;
+    background-color: #ffdad1;
+}
+
+.alert-warn {
+    color: #8f1800;
+    background-color: #ffdad1;
 }
 
 .alert-disconnect {
