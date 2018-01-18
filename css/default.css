@@ -360,9 +360,11 @@ color: rgba(55, 71, 79, 0.7);
     border: 1px solid #dcdcd;
 }
 .like2 svg {
-    width: 32px;
-    stroke-width: 6px;
+    width: 34px;
+    height: 36px;
+    stroke-width: 3px;
     margin-top: 5px;
+    padding: 3px;
 }
 
 .section {
