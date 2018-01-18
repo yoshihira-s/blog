@@ -359,8 +359,9 @@ color: rgba(55, 71, 79, 0.7);
     height: 60px;
 }
 .like2 svg {
-    width: 38px;
+    width: 32px;
     stroke-width: 4px;
+    margin-top: 5px;
 }
 
 .section {
