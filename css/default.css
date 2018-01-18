@@ -338,6 +338,10 @@ color: rgba(55, 71, 79, 0.7);
     width: 80px;
     height: 80px;
     background: none;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 15px;
+    margin-top: 70px;
 }
 
 .like svg {
