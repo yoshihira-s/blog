@@ -357,7 +357,7 @@ color: rgba(55, 71, 79, 0.7);
 .like2 {
     width: 60px;
     height: 60px;
-    border: 1px solid #dcdcd;
+    border: 1px solid #dcdcdc!important;
 }
 .like2 svg {
     width: 34px;
@@ -366,6 +366,22 @@ color: rgba(55, 71, 79, 0.7);
     margin-top: 5px;
     padding: 3px;
 }
+
+.like3 {
+    width: 60px;
+    height: 60px;
+    border: 1px solid #f44336!important;
+    background: #f44336;
+}
+.like3 svg {
+    width: 36px;
+    height: 36px;
+    stroke-width: 0px;
+    margin-top: 5px;
+    padding: 3px;
+    fill: #FFF!important;
+}
+
 
 .section {
     background-color: #fff;
