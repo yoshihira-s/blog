@@ -346,3 +346,75 @@ color: rgba(55, 71, 79, 0.7);
     stroke: #f44336;
     stroke-width: 2px;
 }
+
+.section {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+.d-flex {
+    display: flex;
+}
+.section--content {
+    padding: 0 15px;
+}
+.iu-card-img {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    font-size: 0;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.iu-card-img>img {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+}
+.iu-card-name {
+    flex: 1;
+}
+.iu-card-profile {
+    flex: 1;
+}
+.m-b-10 {
+    margin-bottom: 10px;
+}
+.m-r-15 {
+    margin-right: 15px;
+}
+.iu-card-desc {
+    font-size: 14px;
+    line-height: 18px;
+}
+.iu-card-name>a, .iu-card-desc>a {
+    color: #525558;
+    text-decoration: none;
+}
+.iu-card-name>a {
+    font-size: 16px;
+    line-height: 22px;
+}
+.blog-posts-show .iu-card-button {
+    vertical-align: middle;
+    border: 1px solid #4aa3df;
+    color: #4aa3df;
+    font-size: 13px;
+    padding: 12px;
+    -moz-border-radius: 999em;
+    -webkit-border-radius: 999em;
+    border-radius: 999em;
+    margin: 0 auto;
+    width: 105px;
+    margin-top: 10px;
+    background-color: transparent;
+    outline: none;
+    margin: 0;
+    padding: 0 8px;
+    height: 22px;
+    min-width: 100px;
+    width: 100px;
+    border-radius: 3px;
+}
