@@ -345,11 +345,22 @@ color: rgba(55, 71, 79, 0.7);
     margin-top: 70px;
 }
 
+
+
 .like svg {
     width: 40px;
     fill: none;
     stroke: #f44336;
     stroke-width: 2px;
+}
+
+.like2 {
+    width: 60px;
+    height: 60px;
+}
+.like2 svg {
+    width: 38px;
+    stroke-width: 4px;
 }
 
 .section {
