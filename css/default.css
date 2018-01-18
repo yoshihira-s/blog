@@ -397,7 +397,7 @@ color: rgba(55, 71, 79, 0.7);
     font-size: 16px;
     line-height: 22px;
 }
-.blog-posts-show .iu-card-button {
+.iu-card-button {
     vertical-align: middle;
     border: 1px solid #4aa3df;
     color: #4aa3df;
