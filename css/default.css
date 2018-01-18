@@ -329,3 +329,20 @@ color: rgba(55, 71, 79, 0.7);
     color: #444;
     font-size: 13px;
 }
+
+.like {
+    position: relative;
+    outline: 1px solid transparent;
+    border-radius: 50%;
+    border: 1px solid #bdc3c7;
+    width: 80px;
+    height: 80px;
+    background: none;
+}
+
+.like svg {
+    width: 40px;
+    fill: none;
+    stroke: #f44336;
+    stroke-width: 2px;
+}
