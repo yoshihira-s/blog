@@ -328,6 +328,7 @@ color: rgba(55, 71, 79, 0.7);
 .hash-tags ul a {
     color: #444;
     font-size: 13px;
+    text-decoration: none;
 }
 
 .like {
