@@ -306,4 +306,26 @@ color: rgba(55, 71, 79, 0.7);
     line-height: 20px;
 }
 
-
+.hash-tags ul {
+    line-height: 2px;
+    word-break: break-all;
+    font-size: 13px;
+}
+.hash-tags ul li {
+    display: inline-block;
+    white-space: nowrap;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: none;
+    background: rgba(0,0,0,0.05);
+    padding: 5px 10px;
+    margin: 0 5px 8px 0;
+    border-radius: 3px;
+    min-height: 34px;
+    line-height: 34px;
+}
+.hash-tags ul a {
+    color: #444;
+    font-size: 13px;
+}
